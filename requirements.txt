@@ -1,0 +1,14 @@
+streamlit
+requests
+qrcode
+pillow
+pandas
+folium
+streamlit-folium
+opencv-python-headless
+numpy
+qreader
+flask
+requests
+asyncio
+gunicorn
