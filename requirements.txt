@@ -12,3 +12,8 @@ flask
 requests
 asyncio
 gunicorn
+base58
+base64
+web3
+dotenv
+cryptography
