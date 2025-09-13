@@ -14,3 +14,4 @@ base58
 web3
 python-dotenv
 cryptography
+twilio
