@@ -30,8 +30,7 @@ if 'latest_qr_image' not in st.session_state:
     st.session_state.latest_qr_image = None
 
 # --- API Configuration ---
-BACKEND_URL = "http://127.0.0.1:5000"
-
+BACKEND_URL = "https://sih-backend-38vl.onrender.com"
 
 # --- Sidebar Navigation ---
 st.sidebar.title("Navigation")
